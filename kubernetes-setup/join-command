@@ -1,0 +1,1 @@
+kubeadm join 192.168.50.10:6443 --token skati0.5lmed1r1hsxvfavs     --discovery-token-ca-cert-hash sha256:41a8d6addcaa8175204c61a037d1ba61a04fcb814f89859837becfca098fa4d6 
